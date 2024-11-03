@@ -1,16 +1,5 @@
-# power_pulze
 
-ble, bluetooth wearable, fitness
 
-## Getting Started
+## Basic App
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Create new app and copy lib which contain folder structure folder from this app and copy the pubspec.yaml package thats it
